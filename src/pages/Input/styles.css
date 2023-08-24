@@ -1,0 +1,25 @@
+.itemList{
+    margin: 24px 0 0 0;
+}
+
+.itemList strong {
+    color: #539bf5;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 24px 0 0 0;
+}
+
+.itemList p {
+    color: #999;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+    margin: 24px 0 20px 0;
+    justify-content: center;
+}
